@@ -24,7 +24,7 @@
 
 // Components
 @import "transitions";
-@import "dropdown";
+//@import "dropdown";
 @import "button-group";
 @import "input-group";
 @import "custom-forms";
@@ -50,3 +50,7 @@
 
 // Utility classes
 @import "utilities";
+
+// Semantic UI
+@import "semantic-ui/dropdown";
+@import "semantic-ui/transition";
